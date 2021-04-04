@@ -1,3 +1,5 @@
 # EmotionTalk-iOS
 
-updates test!!
+## tracking status
+
+* Basic project setting. 4 April, 2021
